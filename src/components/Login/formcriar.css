@@ -1,0 +1,10 @@
+.cont {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.area-user {
+  width: 500px;
+  margin-top: 4rem;
+}
